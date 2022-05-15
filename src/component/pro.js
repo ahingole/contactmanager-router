@@ -2,6 +2,7 @@ import React from 'react'
 
 export default function pro() {
   return (
-    <div>pro</div>
+    <div>pro this os practice for git commit </div>
+
   )
 }
