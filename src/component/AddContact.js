@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom"
 function AddContact(props) {
 
     const [inputs, setInputs] = useState(" ");
+    // this is normal form by Akash
 
     const handleChange = (event) => {
         const name = event.target.name;
