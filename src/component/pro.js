@@ -6,6 +6,9 @@ import React from 'react'
 
         <form>
             <input type="text"/> 
+            <input type="text"/> 
+            <input type="text"/> 
+            <input type="text"/> 
         </form>
     </div>
   )
